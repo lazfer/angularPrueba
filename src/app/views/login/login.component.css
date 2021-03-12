@@ -1,0 +1,44 @@
+mat-card {
+    max-width: 350px;
+    height: 500px;
+    margin: 2em auto;
+    text-align: center;
+    padding-top: 10px;
+    color: #c2185b;
+    text-align: center;
+  }
+button{
+    margin-top: 50px;
+    width: 150px;
+    height: 60px;
+}
+  mat-form-field {
+    display: block;
+  }
+.full-width-input{
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 15px;
+  color: #fff
+}
+.mb-1{
+  margin-bottom: 10px;
+}
+.mat-form-field.mat-form-field-invalid .mat-form-field-label {
+  color: #c2185b;
+  font-size: 15px;
+}
+.title{
+  font-size: 22px;
+  color: orange;
+}
+mat-error {
+  font-size: 13px;
+  color: orange;
+}
+.mat-form-field-label{
+  font-size: 12px;
+}
+.img{
+  width: 100px;
+}

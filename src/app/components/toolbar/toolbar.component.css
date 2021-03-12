@@ -1,0 +1,17 @@
+.img{
+    width: 35px;
+}
+.pl-15{
+    padding-left: 15px;
+}
+.btn-home{
+    display: none;
+    min-width: 50px;
+}
+@media(max-width:720px){
+    .btn-home{
+        display: flex;
+        justify-content: center;
+    }
+    
+}
